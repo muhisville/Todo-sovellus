@@ -1,1 +1,1 @@
-# Todo-sovellus
+Tämä on Todo-sovelluksen repositorio. Sovellus on Webkehitys 1 -kurssin ensimmäinen prjektityö.
