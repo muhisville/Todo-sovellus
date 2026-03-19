@@ -18,15 +18,16 @@
     lisaaBtn.addEventListener("click", function () {
       const teksti = input.value.trim();
 
-     // Validoidaan syöte siten, ettei tyhjiä rivejä sallita
-      if (teksti.length < 2) {
+    // Validoidaan syöte siten, ettei tyhjiä syötteitä sallita.
+    if (teksti.length < 2) {
+        // Virhe laukaisee alert-boksin sekä värjää syötekentän punaiseksi 
         input.className = "virheboxi"
         alert("Syötteen täytyy olla vähintään kaksi (2) merkkiä pitkä.")
         input.focus();
         return;
-          }
+        }
 
-      // Tuodaan lisävalintanapit näkyviin, kun rivejä on vähintään yksi
+      // Tuodaan lisävalintanapit näkyviin, kun tehtävärivejä on vähintään yksi
           if (table.rows.length > -1) {
             tekematonBtn.style.display = "inline";
             tehtyBtn.style.display = "inline";

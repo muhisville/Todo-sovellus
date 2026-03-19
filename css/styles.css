@@ -19,6 +19,16 @@ h1 {
     color: rgb(150, 0, 0); 
     text-align: center;
 }
+input[type=text], select {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
 button {  
     background-color: rgb(150, 0, 0);
     border: none;
@@ -61,23 +71,10 @@ button:hover {
     text-align: center; 
 }
 .virheboxi { 
-    border: 3px solid red; 
-}
-.oikeinboxi {
-    border: 0.5px solid black
+    background-color: #e00;
 }
 .piilota {
     display: none
-}
-input[type=text], select {
-    width: 100%;
-    padding: 12px;
-    margin: 8px 0;
-    display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;
-    font-size: 16px;
 }
 .lisanapit {
     display: none
