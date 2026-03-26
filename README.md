@@ -3,8 +3,9 @@ Todo-sovellus
 Tekijä: Ville Muhonen
 
 ## Verkkolinkit:
-Pääset julkaistuun sovellukseen käsiksi osoitteessa https://villen-todo-sovellus.netlify.app/
-Linkki projektin videoesittelyyn [google.com](https://google.com)
+Pääset julkaistuun sovellukseen käsiksi osoitteessa [Netlify](https://villen-todo-sovellus.netlify.app/)
+Linkki projektin videoesittelyyn [YouTube](https://youtu.be/yITsCUFWDVY)
+Sovelluksen GitHub-repositorio: [GitHub](https://github.com/muhisville/Todo-sovellus.git)
 
 ## Työn jakautuminen 
 Toteutin sovelluksen kokonaan itsenäisesti.
@@ -40,28 +41,26 @@ Todo on web-sovellus, jonka avulla käyttäjä voi luoda muistilistan tehtävist
 -
 
 ## Kuvakaappaukset
-Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
-`![Kirjoittaminen](https://unsplash.com/photos/VBPzRgd7gfc)`
+Kuvakaappaus toimivasta sovelluksesta  
+`[Kuva sovelluksesta](https://github.com/muhisville/Todo-sovellus/blob/ef6d7b457509cc2ad903a27654c7464f3ee2e1bf/kuvat/sovellus.png)`
 
-Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
+Kuva: [Ville Muhonen]
 
 ## Teknologiat
-Kuvaa, mitä teknologioita käytettiin ja mikä oli niiden rooli projektissasi.  
-Käytin seuraavia teknologioita: `html`, `css`, ...
+Sovelluksen käyttöliittymä on toteutettu html:llä, toiminnallisuus on rakennettu JavaScriptillä ja tyylit määritelty css:llä.
 
 ## Asennus
 Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi:  
-- lataa kaikki tiedostot ja avaa index.html selaimessasi  
-- lataa tai kloonaa repositorio  
-- suorita `npm install`  
-- ...
+- avaa selain 
+- navigoi sivulle https://villen-todo-sovellus.netlify.app/
+- käytä 
 
 ## Kiitokset
 Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  
-- [John Doe](johndoe.com)  
-- [Beginners guide to BEM](link-goes-here.com)  
+- [Webkehitys 1 -kurssin materiaali](https://mika-stenberg.gitbook.io/web-sovelluksia-javascriptin-avulla)  
+- [w3schools](https://w3schools.com)  
+- [ToDoMVC](https://todomvc.com/examples/react/dist/)  
+- [Microsoft Copilot](https://copilot.microsoft.com/) - Käytin tekoälyä ongelmanratkaisussa ja epätoivoisissa tilanteissa.
 
 ## Lisenssi
-Valitse projektille lisenssi seuraamalla tätä [opasta](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
-
-Esimerkki: MIT-lisenssi @ [tekijä](author.com)
+MIT-lisenssi @ [Ville Muhonen](https://github.com/muhisville/Todo-sovellus/blob/5ca26ced533615e0c8cfc435c4385efd102956a2/LICENSE)
