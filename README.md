@@ -11,7 +11,7 @@ Sovelluksen GitHub-repositorio: [GitHub](https://github.com/muhisville/Todo-sove
 Toteutin sovelluksen kokonaan itsenäisesti.
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
-Mielestäni onnistuin rakentamaan toimivan palikkamallin sovelluksen parilla lisätoiminnolla. O
+Mielestäni onnistuin rakentamaan toimivan palikkamallin sovelluksen parilla lisätoiminnolla. 
 Parantamista olisi varmasti koodin kielessä, käytin englantia ja suomea sekaisin, eikä koodi varmastikaan ole muutenkaan kovin esteettistä. Olisin myös halunnut lisätä sovellukseen Localstorage-ominaisuuden, joka olisi tallentanut tiedot selaimeen, mutta aika loppui kesken.
 Sovelluksesta jäi puuttumaan edellä mainittujen localstorage-ominaisuuksien lomakkeet. Luin tehtävänannon huonosti, toteutin sovelluksen ilman lomakkeita, ja huomasin vaatimuksen liian myöhään, että olisin ehtinyt lisäämään lomaketta sovellukseen.
 Koen, että olen oppinut runsaasti JS:stä sekä koodaamisesta yleensä. Osa opitusta varmasti selkiytyy ja täydentyy tulevissa projekteissa.
