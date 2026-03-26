@@ -42,9 +42,8 @@ Todo on web-sovellus, jonka avulla käyttäjä voi luoda muistilistan tehtävist
 
 ## Kuvakaappaukset
 Kuvakaappaus toimivasta sovelluksesta  
-`[Kuva sovelluksesta](https://github.com/muhisville/Todo-sovellus/blob/ef6d7b457509cc2ad903a27654c7464f3ee2e1bf/kuvat/sovellus.png)`
-
-Kuva: [Ville Muhonen]
+[Kuva sovelluksesta](https://github.com/muhisville/Todo-sovellus/blob/ef6d7b457509cc2ad903a27654c7464f3ee2e1bf/kuvat/sovellus.png)
+Kuva: Ville Muhonen
 
 ## Teknologiat
 Sovelluksen käyttöliittymä on toteutettu html:llä, toiminnallisuus on rakennettu JavaScriptillä ja tyylit määritelty css:llä.
